@@ -68,7 +68,7 @@ The model is deployed using Streamlit where users can:
 ## 📸 App Preview
 
 
-![App Screenshot]("negitive_output.png")
+![App Screenshot](""D:\ saniya\QUASTECH\sentiment_project\negitive_output.png"")
 
 ---
 
