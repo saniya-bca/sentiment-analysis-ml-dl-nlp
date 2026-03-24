@@ -66,9 +66,8 @@ The model is deployed using Streamlit where users can:
 ---
 
 ## 📸 App Preview
-
-# app screenshot
-![App Screenshot](negitive_output.png)
+![App Screenshot]
+(negitive_output.png)
 ---
 
 ## ▶️ How to Run
