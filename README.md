@@ -68,6 +68,8 @@ The model is deployed using Streamlit where users can:
 ## 📸 App Preview
 ![App Screenshot]
 (negitive_output.png)
+<img width="1376" height="532" alt="negitive_output" src="https://github.com/user-attachments/assets/e817979f-4c86-4744-952f-29047dbe459b" />
+
 ---
 
 ## ▶️ How to Run
