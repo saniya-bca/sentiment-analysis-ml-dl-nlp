@@ -67,22 +67,21 @@ The model is deployed using Streamlit where users can:
 
 ## 📸 App Preview
 
-
-![App Screenshot](""D:\ saniya\QUASTECH\sentiment_project\negitive_output.png"")
-
+# app screenshot
+![App Screenshot](negitive_output.png)
 ---
 
 ## ▶️ How to Run
 
 1. Install dependencies:
 
-```bash
+
 pip install streamlit nltk tensorflow scikit-learn
 ```
 
 2. Run the app:
 
-```bash
+
 streamlit run app.py
 ```
 
